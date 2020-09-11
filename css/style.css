@@ -382,6 +382,7 @@ html body .wrapper .banner .bnr-content  a {
 .trainer .training-content .train-col .training-col-cont .social-icon ul li a i {
     color: #000000;
     font-weight: 600;
+    transition: 0.4s all ease-out;
 }
 .trainer .training-content .train-col .training-col-cont .social-icon ul li a i:hover {
     color: #f44336;
