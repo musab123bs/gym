@@ -383,6 +383,9 @@ html body .wrapper .banner .bnr-content  a {
     color: #000000;
     font-weight: 600;
 }
+.trainer .training-content .train-col .training-col-cont .social-icon ul li a i:hover {
+    color: #f44336;
+}
 .trainer .training-content .train-col .training-col-cont .social-icon ul li:nth-child(1) a {
     margin: 0;
     }
