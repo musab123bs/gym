@@ -56,7 +56,7 @@ html body .wrapper .header .menu ul {
     }
 }
 .h-height{
-	height: 275px !important;
+	height: 290px !important;
 }
 .opacity{
 	opacity: 0.09;
@@ -153,13 +153,13 @@ footer .main-footer p {
 html body .wrapper .header .logo {
     width: 30%;
     position: absolute;
-    width: 80%;
+    /* width: 80%; */
     margin: 0 auto;
     top: 15px;
-    /* left: 36px; */
+    left: 36px;
 }
 html body .wrapper .header .menu {
-    width: 58%;
+    width: 50%;
     position: absolute;
     right: 100px;
     top: 12px;
