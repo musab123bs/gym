@@ -153,13 +153,13 @@ footer .main-footer p {
 html body .wrapper .header .logo {
     width: 30%;
     position: absolute;
-    /* width: 80%; */
+    width: 80%;
     margin: 0 auto;
     top: 15px;
-    left: 36px;
+    /* left: 36px; */
 }
 html body .wrapper .header .menu {
-    width: 50%;
+    width: 58%;
     position: absolute;
     right: 100px;
     top: 12px;
